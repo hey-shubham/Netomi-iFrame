@@ -1,0 +1,17 @@
+* {
+  font-family: sans-serif;
+}
+
+.frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: "350px";
+  height: "580px";
+}
+
+#outside{
+  font-weight: 600;
+  text-align: center;
+  margin-top: 20px;
+}
